@@ -11,8 +11,6 @@ This repository contains the infomation of FYSETC SD-WIFI module
 
 The power supply of the USB interface connected to the SD-WIFI module is insufficient, if it is the host, change the USB interface to the rear; if it is a notebook computer, it is best to connect the power supply, directly connect to the USB port, do not connect to the extension dock.
 
-连接SD-WIFI模块的USB接口供电不足，如果是主机，将USB接口换成后置的；如果是笔记本电脑，最好接上电源，直接接上USB口，不要接在拓展坞上。
-
 ### ***Mode2：***
 
 If the above method does not work, put the module as close to the wifi signal source as possible, or change to a strong wifi signal source, the signal is too weak will lead to connection errors.
