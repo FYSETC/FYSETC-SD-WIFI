@@ -5,7 +5,7 @@ This repository contains the infomation of FYSETC SD-WIFI module
 
 ***The following problems occur in the SD-WIFI module, which may be due to insufficient power supply or signal problems.***
 
-![](D:\project\project-SD_WIFI\FYSETC-SD-WIFI\SD-WIFI_1.bmp)
+![](SD-WIFI_1.bmp)
 
 ### ***Mode1：***
 
