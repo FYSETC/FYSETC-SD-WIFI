@@ -27,7 +27,7 @@ If Mode 2 cannot be implemented for some reason, the PHY mode of the module can 
 | WIFI_PHY_MODE_11G | Medium range, speed and power consumption.                   |
 | WIFI_PHY_MODE_11N | The range, power consumption is the smallest and the speed is the fastest. |
 
-#### Modify firmware：
+Modify firmware：
 
 1. Open firmware with [arduino](https://www.arduino.cc/) software.
 2. Global search“WiFi.setPhyMode”；
