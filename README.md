@@ -63,9 +63,13 @@ Just need to use  ```http://192.168.0.x``` in access network drive option
 
 The power supply of the USB interface connected to the SD-WIFI module is insufficient, if it is the host, change the USB interface to the rear; If it is a notebook computer, it is best to connect the power supply, directly connect to the USB port, do not connect to the extension dock.
 
+如果此模块电脑 USB 口直接供给的电流不够时会出现无法连接的情况，此时需要一个带独立电源的 USB 分线器，从分线器 USB 口连接模块进行参数设定。
+
 ### Fix 2 :
 
 If the above method does not work, put the module as close to the wifi signal source as possible, or change to a strong wifi signal source, the signal is too weak will lead to connection errors.
+
+请尽量靠近你的路由器，信号不好时也可能连接不上。
 
 ### Fix 3 :
 
