@@ -4,7 +4,7 @@ This repository contains the infomation of FYSETC SD-WIFI module
 
 ## Firmware:
 
-You can get the firmware [here](https://github.com/FYSETC/ESPWebDAV).
+You can get the firmware [here](https://github.com/FYSETC/ESPWebDAV). You can check the video [FYSETC How to upgrade SD Wifi module firmware - YouTube](https://www.youtube.com/watch?v=WnQ7pxHB7hs) to know how to update the firmware.
 
 ## Config
 
