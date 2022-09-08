@@ -1,4 +1,5 @@
 # FYSETC-SD-WIFI
+
 This repository contains the infomation of FYSETC SD-WIFI module
 
 ## Firmware:
@@ -7,7 +8,7 @@ You can get the firmware [here](https://github.com/FYSETC/ESPWebDAV).
 
 ## Config
 
-First you can see our video [here](https://www.youtube.com/watch?v=YAFAK-jPcOs). You have two ways to config the module.
+First you can see our video [FYSETC SD Wifi Wireless Transmission Module Introduction - YouTube](https://www.youtube.com/watch?v=2aW-65--NJk&t=24s). You have two ways to config the module.
 
 *note: The card should be formatted for Fat16 or Fat32*
 
@@ -22,7 +23,7 @@ You can edit the example ```SETUP.INI``` file in ```ini``` folder, change the SS
 
 you can see the module IP and other information.
 
-*note: if you miss the serial output, you can click the ```RST``` button in the module.*
+*note: if you miss the serial output, you can click the ```RST``` button on the module. If you power it on with USB charger, you can check the module IP on your router*
 
 ### Option 2 : Command
 
@@ -44,7 +45,7 @@ And use the following command to connect the network or check the network status
 
 ### windows
 
-To access the drive from Windows, type ```\\ip\DavWWWRoot``` at the Run prompt, this will show in serial output as our [video](https://www.youtube.com/watch?v=YAFAK-jPcOs) shows.
+To access the drive from Windows, type ```\\ip\DavWWWRoot``` at the Run prompt, this will show in serial output as our video shows. [FYSETC SD Wifi Wireless Transmission Module Introduction - YouTube](https://www.youtube.com/watch?v=2aW-65--NJk&t=24s)
 
 Or use Map Network Drive menu in Windows Explorer.
 
@@ -70,11 +71,11 @@ If the above method does not work, put the module as close to the wifi signal so
 
 If Fix 2 cannot be implemented for some reason, the PHY mode of the module can be changed to enhance the module signal.
 
-| WIFI_PHY_MODE     | Description                                                  |
-| ----------------- | ------------------------------------------------------------ |
+| WIFI_PHY_MODE     | Description                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------ |
 | WIFI_PHY_MODE_11B | The range is the largest, the speed is the slowest, and the power consumption is the most. |
-| WIFI_PHY_MODE_11G | Medium range, speed and power consumption.                   |
-| WIFI_PHY_MODE_11N | The range, power consumption is the smallest and the speed is the fastest. |
+| WIFI_PHY_MODE_11G | Medium range, speed and power consumption.                                                 |
+| WIFI_PHY_MODE_11N | The range, power consumption is the smallest and the speed is the fastest.                 |
 
 Modify firmware：
 
